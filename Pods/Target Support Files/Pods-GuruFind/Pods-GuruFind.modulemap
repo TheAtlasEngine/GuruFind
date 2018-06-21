@@ -1,0 +1,6 @@
+framework module Pods_GuruFind {
+  umbrella header "Pods-GuruFind-umbrella.h"
+
+  export *
+  module * { export * }
+}
